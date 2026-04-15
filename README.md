@@ -50,8 +50,11 @@ This project improved my:
 
 It also reinforced concepts like functions, control flow, and basic data structures.
 
----
 
+---
 ## Run
+
 ```bash
+git clone https://github.com/your-username/warehouse-robot-optimization.git
+cd warehouse-robot-optimization
 python3 Final.py
